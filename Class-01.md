@@ -16,7 +16,7 @@
 
     * Attributes are on the opening tag of the element and are made up of two parts: a name and a value
 
-    * Types of tags
+    * Types of tags <></>
         * body: is everything shown in main browser window
         * head: has info about the page sometimes contains a title
         * title: what is shown in the top of the browser (on the tab)
@@ -26,9 +26,9 @@
         * tells the browser which version of HTML the page is using
 
     * Comments
-        * comments are added to code because it helps explain why something is a certain way or what it was supposed to do. It makes it easier to understand.
+        * comments are added to code because it helps explain why something is a certain way or what it was supposed to do. It makes it easier to understand. As in comment driven development.
 
-        * can also be used to "comment out" blocks of code temporarially
+        * can also be used to "comment out" blocks of code temporarially using ctrl /
 
     * Id Attrubute
         * uniquely identifies that element on the page

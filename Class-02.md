@@ -48,15 +48,31 @@
     
 # Chapter 2: Basic JavaScript Instructions
 
-    * Scripts
-        * scripts are instructions that a computer follows to do something
-        * to write a script break it down into several steps
-            * what's the goal
-            * make a flowchart to show the individual steps
-            * write the code to accomplish each step
+    * A script is made of a series of statements, each statement is like a step in a recipie. 
+     
+    * You can specify values even if you dont use them right away.
 
-    * How do computers fit in with the real world?
-        * they create models of the world using data such as objects, properties, events and methods
+    * Vars are used to temporarily store pieces of information in a script.
 
-    * The Document Object
-        * represents an HTML pace and allows you to change the content seen on a page and how users interact with it
+    * JS take in 'STRINGS', booleans and numbers. 
+
+    * An array is a special variable that can store more than one piece of information.
+
+    *Expressions evaluate to a single value. 
+
+    *Expression rely on operators to calculate a value. 
+
+# Chapter 4: Decisions and Loops
+    * Conditional statements allow code to make decisions on what to do next. 
+
+    * Comparison operators are used to compare two operands. 
+        * ===
+        * !==
+        * ==
+        * !=
+        * <>
+        * <= , =>
+
+    * Logical operators allow you to combine more than one set of comparison operators. 
+    
+    * If-Else statements allow you to run one set of code if a condition is true and another set if it is false.
